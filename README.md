@@ -23,7 +23,7 @@ I'm a Computer Science student at **IIIT Kota** with a deep interest in **Machin
 
 - 🔭 Currently building: neural networks from scratch (backprop, MLPs, language models)
 - 📚 Learning: deep learning systems, NLP, transformer architectures
-- 💡 Interests: ML research, systems programming, and the business of AI
+- 💡 Interests: ML research, systems programming, and coding
 - ⚙️ I work comfortably in both Python and C/C++
 
 ---
@@ -60,7 +60,7 @@ I'm a Computer Science student at **IIIT Kota** with a deep interest in **Machin
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
-**Core Competencies**
+**Core Skills**
 
 `Deep Learning` `Machine Learning` `NLP` `Data Structures & Algorithms` `RESTful APIs`
 
