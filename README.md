@@ -71,8 +71,8 @@ I'm a Computer Science student at **IIIT Kota** with a deep interest in **Machin
 ### 🔹 [Neural Networks from Scratch](https://github.com/AkshatWM/Neural_Networks_from_Scratch.git)
 > 
 
-**Stack:** `Python` `PyTorch`
-**What I learned / what's interesting:** Built the complete neural network training pipeline from scratch, including data loading, mini-batch sampling, forward and backward propagation, stable softmax implementations, gradient computation, optimization, weight initialization, and training dynamics.
+- **Stack:** `Python` `PyTorch`
+- **What I learned / what's interesting:** Built the complete neural network training pipeline from scratch, including data loading, mini-batch sampling, forward and backward propagation, stable softmax implementations, gradient computation, optimization, weight initialization, and training dynamics.
 
 <!-- PROJECT TEMPLATE — copy and fill in for each project:
 
